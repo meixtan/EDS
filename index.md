@@ -1,4 +1,4 @@
-## Welcome
+## Welcome to Education Data Science in Action
 
 The field of education data science offers opportunities for innovation in research and practice. The availability of new methods and data sources, catalyzed in an age of digital learning, has brought a variety of experts and novices together in multi-disciplined work. For some, education data science is the application of an existing domain of expertise to answering new questions. But as the popularity of the field expands, increasingly people begin at the intersection and navigate the growing body of work to find their avenue of contribution.
 
