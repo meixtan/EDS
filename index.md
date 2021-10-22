@@ -1,4 +1,4 @@
-## Education Data Science in Action
+## Welcome
 
 The field of education data science offers opportunities for innovation in research and practice. The availability of new methods and data sources, catalyzed in an age of digital learning, has brought a variety of experts and novices together in multi-disciplined work. For some, education data science is the application of an existing domain of expertise to answering new questions. But as the popularity of the field expands, increasingly people begin at the intersection and navigate the growing body of work to find their avenue of contribution.
 
@@ -33,3 +33,6 @@ _Oh look, a blank slate! The following table outlines the topic of articles that
 | Machine Learning & Artificial Intelligence  |  |  |  |  |
 | Natural Language Processing |  |  |  |  |
 | Network Science |  |  |  |  |
+
+### Contributing
+Interested in contributing to the project? We'd love your help. EDS in Action is an open source project, built one contribution at a time. 
